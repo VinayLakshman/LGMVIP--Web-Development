@@ -20,7 +20,7 @@ class App extends Component {
     this.setState({loading: true});
 
       setTimeout(async function(){
-        // document.getElementById("main").style.display='flex';
+    
       const response=await fetch("https://reqres.in/api/users?page=1");
       const jsonresponse=await response.json();
       console.log(jsonresponse)
