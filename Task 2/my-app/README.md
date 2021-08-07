@@ -1,3 +1,7 @@
+#Task 2
+
+This task requires us to create a react app and design an UI to fetch and display user data from the given link using custom CSS components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
