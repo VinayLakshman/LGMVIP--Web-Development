@@ -1,4 +1,4 @@
-# Task 2
+# Task 2 - Intermediate Level Task
 
 This task requires us to create a react app and design an UI to fetch and display user data from the given link using custom CSS components.
 
